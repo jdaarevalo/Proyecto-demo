@@ -37,20 +37,20 @@
 		FFF0088F1630D6600018B0CE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FFF008911630D6600018B0CE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FFF008931630D6600018B0CE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		FFF008971630D6600018B0CE /* Proyecto demo-Info.plist */ = {isa = PBXFileReference; path = "Proyecto demo-Info.plist"; sourceTree = "<group>"; };
+		FFF008971630D6600018B0CE /* Proyecto demo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Proyecto demo-Info.plist"; sourceTree = "<group>"; };
 		FFF008991630D6600018B0CE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FFF0089B1630D6600018B0CE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FFF0089D1630D6600018B0CE /* Proyecto demo-Prefix.pch */ = {isa = PBXFileReference; path = "Proyecto demo-Prefix.pch"; sourceTree = "<group>"; };
-		FFF0089E1630D6600018B0CE /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		FFF0089D1630D6600018B0CE /* Proyecto demo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Proyecto demo-Prefix.pch"; sourceTree = "<group>"; };
+		FFF0089E1630D6600018B0CE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FFF0089F1630D6600018B0CE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		FFF008A21630D6600018B0CE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		FFF008A41630D6600018B0CE /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		FFF008A41630D6600018B0CE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		FFF008A51630D6600018B0CE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		FFF008AC1630D6610018B0CE /* Proyecto demoTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Proyecto demoTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFF008AD1630D6610018B0CE /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		FFF008B51630D6610018B0CE /* Proyecto demoTests-Info.plist */ = {isa = PBXFileReference; path = "Proyecto demoTests-Info.plist"; sourceTree = "<group>"; };
+		FFF008B51630D6610018B0CE /* Proyecto demoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Proyecto demoTests-Info.plist"; sourceTree = "<group>"; };
 		FFF008B71630D6610018B0CE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		FFF008B91630D6610018B0CE /* Proyecto_demoTests.h */ = {isa = PBXFileReference; path = Proyecto_demoTests.h; sourceTree = "<group>"; };
+		FFF008B91630D6610018B0CE /* Proyecto_demoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Proyecto_demoTests.h; sourceTree = "<group>"; };
 		FFF008BA1630D6610018B0CE /* Proyecto_demoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Proyecto_demoTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
